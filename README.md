@@ -1,2 +1,1 @@
-# indosange
-indosange
+# [indosange](https://indosange.pages.dev)
